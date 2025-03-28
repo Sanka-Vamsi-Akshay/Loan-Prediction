@@ -24,7 +24,7 @@ st.markdown("*Built using Decision Tree Machine Learning Algorithm*")
 
 st.write("")
 
-st.markdown("> Initial concept by **Kiran Kalla**, refined and developed further by **Sanka Vamsi Akshay**.")
+st.markdown("> Initial concept by **Kiran Kalla**, refined and developed further by **Vamsi Akshay Sanka**.")
 
 st.write("---")
 
